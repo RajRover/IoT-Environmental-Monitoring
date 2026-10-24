@@ -1,0 +1,39 @@
+# IoT Environmental Monitoring System
+
+An ESP32-based environmental monitoring project designed to collect
+temperature, humidity, dust, and air-quality readings using sensors.
+
+## Hardware Components
+
+- ESP32 development board
+- DHT11 temperature and humidity sensor
+- DS18B20 temperature sensor
+- MQ-135 air-quality sensor
+- PM2.5 dust sensor
+- OLED display
+
+## Project Structure
+
+- `src/` — Main Arduino source code
+- `sensor_calibration/` — Sensor calibration code
+- `Datasheets/` — Component datasheets and pinout references
+- `images/` — Project images
+
+## Tools and Technologies
+
+- ESP32
+- Arduino C++
+- Environmental sensors 
+- Embedded systems
+
+## Attribution
+
+This repository is based on the original project:
+https://github.com/28anmol/ESP32-Environmental-Monitoring
+
+Please refer to the original repository's license for reuse and attribution terms.
+
+## Project Status
+
+Learning and adaptation project. Hardware testing and independent modifications
+should be documented as they are completed.

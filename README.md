@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # 🌎 ESP32 Environmental Monitoring System 🚀
 
 This project is WiFi-enabled real-time environmental monitoring system built on **ESP32 WROOM 32D** microcontroller. It captures and displays key atmospheric parameters such as **temperature**🌡️, **humidity**💧, **PM2.5 dust density**🌫️, **dust levels**💨, **air PPM levels**🏭 and **air quality index(AQI)⚠️** using various sensors. This data is displayed locally on a **128x64 OLED display** and also served through a responsive **web interface** hosted on ESP32 itself over the local network.
 
-
+ 
 ## 🚀 Features
 - 📡 **WiFi Based Server**: ESP32 hosts a dynamic webpage accessible to any device on the same network acting as a webserver
 - 🌡️ **Temperature monitoring**: Captures accurate ambient temperature using digital temperature sensor
@@ -266,3 +267,6 @@ This project is open souce under MIT License
 📍 Pune, India
 
 
+=======
+# IoT-Environmental-Monitoring
+>>>>>>> 5b368166a7947efb8a7c1d8f8f701d676fdc231d
